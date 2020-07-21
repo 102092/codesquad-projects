@@ -8,67 +8,114 @@
 
 ### 몬스터 레이스
 
-- [java-monster-race](https://github.com/102092/java-monster-race)
-- [PR_링크](https://github.com/code-squad/java-monster-race/pulls?q=is%3Apr+is%3Aclosed+author%3A102092)
-- 학습한 점
-  - `Optional` 사용
-  - `if-else` 을 줄이자
-  - `stream` 에 대해
-  - MVC - pattern
-  - 객체지향에 대해
-  - 가독성이 좋은 코드를 작성하기 위해서는 어떻게 해야할까?
+#### 개요
+
+- Java를 활용한 몬스터 레이스 게임 구현
+
+
+
+#### 사용기술
+
+- Java
+
+
+
+#### 학습하고, 고민한 점
+
+- 객체가 어떤 메서드를 가지고 있어야 할 지, 즉 어떤 역할을 맡아야 하고, 어디에 메세지를 보내야할 지 고민할 수 있었습니다.
+
+- 재귀적인 메서드 구현을 시도해봤습니다.
+
+- `Optional` 을 알게 되었고, `Null` 에 대해 어떻게 다뤄야할지 생각하게 되었습니다.
+
+- 가장 핵심적인 사항은 **가독성 좋은 코드** 의 중요성을 알게 되었습니다.
+
+  - 충분한 생각, 설계없이 작성한 코드는 프로그램의 전반적인 흐름을 파악하는 데 힘들어지고 나아가 유지보수 및 기능 추가에 큰 악영향을 미친다는 것을 알 수 있었습니다.
+
+  - 자신 뿐만 아니라, 상대방을 위해 읽기 쉽고 간결한 코드가 필요함을 알게 되었습니다.
+  - `Spring` 같은 프레임워크의 사용 필요성을 느끼게 되었습니다.
+
+
+
+#### 참고
+
+- [github_link](https://github.com/102092/java-monster-race/tree/102092)
+- [PR_link](https://github.com/code-squad/java-monster-race/pulls?q=is:pr+is:closed+author:102092)
 
 
 
 ### QnA 게시판
 
-- [java-qna](https://github.com/102092/java-qna)
+#### 개요
 
-- [PR_링크](https://github.com/code-squad/java-qna/pulls?q=is%3Apr+is%3Aclosed+author%3A102092)
+- CRUD 기능을 가지고 있는 간단한 게시판 구현
 
-- 학습한 점
 
-  - 기본적인 네트워크 통신
 
-  - `Spring Boot`
+#### 사용기술
 
-  - `Cookie`, `Session` 의 차이
+- Java, SpringBoot, Spring Data JPA, Heroku, H2, Swagger, Gradle
 
-  - `Spring data JPA` 
 
-  - `Refactoring` 을 어떻게 해야할지
 
-  - `Swagger` 문서화
+#### 학습하고, 고민한점
 
-  - `ORM`, `JPA`, `Hibernate` 에 대해
+- Spring Data JPA 의 간편함과 무서움을 느끼게 되었습니다.
+  - Annotation을 통해, Entity Mapping등 정말 간결하게 객체 생성 및 기능을 구현할 수 있었습니다.
+  - 그렇지만 내부적으로 작동 방식을 잘 몰랐기 때문에, 오류 발생 시 해결하는 데 어려웠습니다.
+  - 사용하는 기술에 대한 이해가 필요함을 느겼습니다.
+- 네트워크 전반적인 부분에 대해 학습했습니다.
+  - DNS의 역할, HTTP 프로토콜, HTTP Status Code, Session과 Cookie
+- ORM, JPA, Hibernate 관계에 대해 학습했습니다.
+- API 문서의 필요성과 Swagger로 어떻게 하면 구현할 수 있는지 고민하고, 시도해봤습니다.
 
-  - `Gradle` 기본적인 역할
 
-  - ##### `command-line-runner`
 
-  - `MySQL` 기본적인 사용방법
+#### 참고
 
-  - `Clean Code`의 필요성
+- [github_link](https://github.com/102092/java-qna)
+
+- [PR_link](https://github.com/code-squad/java-qna/pulls?q=is:pr+is:closed+author:102092)
+
 
 
 
 ### 웹서버 구현
 
-- [java-was](https://github.com/beginin15/java-was)
-- [PR_링크](https://github.com/code-squad/java-was/pull/48)
-- 학습한 점
-  - [페어 코딩 방법에 대해](https://github.com/beginin15/java-was/issues)
-  - `HttpMethod`, `HttpStatus Code`
-  - 예외처리
-  - 세션 구현
-  - `WebServer`,` WAS(Web Application Server)` 에 대해
-  - 테스트 코드
+#### 개요
+
+- **페어프로그래밍**을 통해  간단한 `Web Server` 구현
 
 
+
+#### 사용기술
+
+- Java
+
+
+
+#### 학습하고, 고민한점
+
+- 어떤 방식의 페어 프로그래밍과 태도가 저와 동료에게 도움이 될 지 고민해보는 계기가 되었습니다.
+  - 프로젝트 진행 방식은, [github issue 작성](https://github.com/beginin15/java-was/issues)을 통해 각 단계별로 해야될 일들에 대해 세분화하였고, 추후 학습해야할 부분은 댓글로 기록하였습니다.
+  - 내가 생각한 것과, 상대방의 생각한 것의 간격을 줄이기 위해서 적극적인 의사소통을 시도했습니다.
+  - 항상 다른 가능성을 열어두는 열린 자세를 취하기 위해 노력했습니다.
+- WebServer, Application Server 차이점에 대해 공부했습니다.
+- `Session` 의 전반적인 작동 방식을 구현해봤습니다.
+- 
+
+#### 참고
+
+- [github_link](https://github.com/beginin15/java-was)
+- [PR_link](https://github.com/code-squad/java-was/pull/48)
+
+
+
+---
 
 ## 마스터즈 프로젝트
 
-> 작성되어있는 기획서를 기반으로, FE - BE - IOS 팀이 되어 진행하였습니다.
+> 작성되어있는 기획서를 기반으로, FE - BE - IOS 팀이 되어 프로젝트를 진행하였습니다.
 
 
 
