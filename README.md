@@ -156,8 +156,8 @@
 #### 참고
 
 - [기획서](https://docs.google.com/presentation/d/1xvs24VWVJc2KhmHUoj1Rm88zvtzItzQuD-6vBuzkvA0/edit#slide=id.p)
-- [signup-11](https://github.com/codesquad-member-2020/signup-11)
-- [PR_링크](https://github.com/codesquad-member-2020/signup-11/pull/45)
+- [github_link](https://github.com/codesquad-member-2020/signup-11)
+- [PR_link](https://github.com/codesquad-member-2020/signup-11/pull/45)
 
 
 
@@ -200,9 +200,8 @@
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/1Yl4nM2FReIhZASlBM73asWMcLe3366hglP8E_Dded1U/edit#slide=id.g7e682b64ec_0_23)
-
-- [dust-11](https://github.com/codesquad-member-2020/dust-11)
-- [PR_링크](https://github.com/codesquad-member-2020/dust-11/pull/45)
+- [github_link](https://github.com/codesquad-member-2020/dust-11)
+- [PR_link](https://github.com/codesquad-member-2020/dust-11/pull/45)
 
 
 
@@ -257,9 +256,9 @@
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/13OX2mGk-wvwPyI06afMPITMPz9jGYLe4y2FIFBImeyA/edit?usp=sharing)
-- [todo-8](https://github.com/codesquad-member-2020/todo-8)
-- [PR_링크-1](https://github.com/codesquad-member-2020/todo-8/pull/63)
-- [PR_링크-2](https://github.com/codesquad-member-2020/todo-8/pull/102)
+- [github_link](https://github.com/codesquad-member-2020/todo-8)
+- [PR_link_1](https://github.com/codesquad-member-2020/todo-8/pull/63)
+- [PR_link_2](https://github.com/codesquad-member-2020/todo-8/pull/102)
 
 
 
@@ -304,8 +303,8 @@
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/1jcrUXkTHVNhh-aj_eM-yOhAkuRdaE3w2Vry2UUY42JU/edit#slide=id.p)
-- [sidedish-08](https://github.com/codesquad-member-2020/sidedish-08)
-- [PR_링크](https://github.com/codesquad-member-2020/sidedish-08/pull/76)
+- [github_link](https://github.com/codesquad-member-2020/sidedish-08)
+- [PR_link](https://github.com/codesquad-member-2020/sidedish-08/pull/76)
 
 
 
@@ -349,8 +348,8 @@
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/1KY4myrtBFlvr6eKvgl-CVv5Cbk1zQlo1GkTz4hNjXqE/edit?usp=sharing)
-- [baseball-09](https://github.com/codesquad-member-2020/baseball-09)
-- [PR_링크](https://github.com/codesquad-member-2020/baseball-09/pull/77)
+- [github_link](https://github.com/codesquad-member-2020/baseball-09)
+- [PR_link](https://github.com/codesquad-member-2020/baseball-09/pull/77)
 
 
 
@@ -408,9 +407,9 @@
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/1jmpiOizAY_gvQN4ei5K1FDlDXLuTijZBFH6GFi28HD8/edit?usp=sharing)
-- [airbnb-11](https://github.com/codesquad-member-2020/airbnb-11)
-- [PR_링크-1](https://github.com/codesquad-member-2020/airbnb-11/pulls)
-- [PR_링크-2](https://github.com/codesquad-member-2020/airbnb-11/pull/141)
+- [github_link](https://github.com/codesquad-member-2020/airbnb-11)
+- [PR_link_1](https://github.com/codesquad-member-2020/airbnb-11/pulls)
+- [PR_link_2](https://github.com/codesquad-member-2020/airbnb-11/pull/141)
 
 
 
@@ -460,8 +459,8 @@
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/1iA-tpumHl_TpR_yUwgYcnb_X8GbW6XvjZOTh2Ucvu0A/edit#slide=id.p)
-- [issue-tracker-03](https://github.com/codesquad-member-2020/issue-tracker-03)
-- [PR_링크](https://github.com/codesquad-member-2020/issue-tracker-03/pull/83)
+- [github_link](https://github.com/codesquad-member-2020/issue-tracker-03)
+- [PR_link](https://github.com/codesquad-member-2020/issue-tracker-03/pull/83)
 
   
 
