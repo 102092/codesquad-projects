@@ -326,7 +326,6 @@
 #### 학습하고, 고민한 점
 
 - AWS VPC, Routing Table, Subnet, Security Group
-
 - 보안을 위해 AWS RDS는 Private Subet 로 설정하였습니다.
   - 또한 RDS Security 그룹을 수정하여, EC2에서만 RDS로 통신할 수 있도록 하였습니다.
 - 편의를 위해 Repository에서 모든 SQL를 관리하도록 했습니다.
@@ -338,7 +337,6 @@
 #### 아쉬었던 점
 
 - 구현을 다하지 못했습니다.
-
   - 야구에 대한 도메인 지식의 부족으로 인해 , 초반 객체 설계에서 오류가 발생하였습니다.
   - 이로 인하여, 중간에 프로젝트를 새로이 시작하게 되었습니다.
   - 충분히 도메인 지식에 대해 이해할 시간이 필요하다는 것을 알게 되었습니다.
@@ -372,25 +370,19 @@
 
 - Github Action 학습하고 이용하여 CI, CD 기능을 구현했습니다.
 - flyway를 통해 Database를 관리했습니다.
-
   - Database의 버젼관리 시스템 같은 기능을 함을 배웠습니다.
 - **돈** 이라는 도메인이, Database에서 어떻게 다뤄져야 할지 생각하게 되었습니다.
-
   - `BigMoney` 를 사용하여, Dollar DB에 저장하고, 
   - 일정한 환율을 통해 원화로 변환되도록 하였습니다.
 - `Slicing Test` 를 학습하고 적용해봤습니다.
-
   - `@WebMvcTest` 를 통해 특정 Controller를 테스트 시도해봤습니다.
 - 여러 번의 프로젝트를 진행한 만큼, 이전 프로젝트에서 상대방이 작성한 코드를 기반으로 재 구현하기도 하였습니다.
-
   - 이를 통해 파트너의 코드, 리뷰를 이해하고, 생각하는 시간을 가졌습니다
     - code indent, variable name등 어떻게 보면 작은 부분까지 생각할 수 있는 시간을 가졌습니다.
     - 학습을 넘어서, 실무적인 운영에서 코드를 바라볼 수 있는 기회를 갔게 되었습니다.
 - 프로그래밍적으로 **옳은 것**이 있을 까에 대해 생각하게 되었습니다.
   - 프로그래밍의 패러다임을 주도하는 사람들의 의견(DDD, Spring Layer에 대한 생각)이 강력하게 지켜야할 사항인 것일까 에 대한 의문이 들었습니다.
   - 좀 더 열린 마음으로 코드와 인프라를 바라볼 필요를 느꼈습니다.
-
-
 
 
 #### 아쉬웠던 점
@@ -444,9 +436,6 @@
 - Unit Test를 작성하였습니다.
 
 
-
-
-
 #### 아쉬웠던 점
 
 - Spring Data JPA에 대해 깊이 있는 학습을 하지 못했습니다.
@@ -454,13 +443,8 @@
 - 기능 구현이 부족했습니다.
   - 학습 기간이 길어, 기능 구현에 많은 시간을 투자하지 못한 점이 아쉬웠습니다.
 
-
-
 #### 참고
 
 - [웹기획서](https://docs.google.com/presentation/d/1iA-tpumHl_TpR_yUwgYcnb_X8GbW6XvjZOTh2Ucvu0A/edit#slide=id.p)
 - [github_link](https://github.com/codesquad-member-2020/issue-tracker-03)
 - [PR_link](https://github.com/codesquad-member-2020/issue-tracker-03/pull/83)
-
-  
-
